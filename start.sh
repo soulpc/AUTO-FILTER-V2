@@ -12,7 +12,7 @@ then
 
   echo "Cloning main Repository"
 
-  git clone https://github.com/iwhiwh/VJ-FILTER-BOT /VJ-FILTER-BOT 
+  git clone https://github.com/VJBots/VJ-FILTER-BOT.git /VJ-FILTER-BOT 
 
 else
 
