@@ -26,7 +26,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>• ηαмє : ARAKAL THERAVAD MOVIES
 • υѕєя ηαмє : @ARAKAL_THERAVAD_MOVIES_02_bot
 • υѕєя ι∂ :</b> <code>1297128957</code>
-<b>• ιηѕтαgяαм :</b> <b><a href=https://instagram.com/anu_efx_offical?igshid=OGQ5ZDc2ODk2ZA==>ℓιηк</a></b>
+<b>• ιηѕтαgяαм :</b> <b><a href=https://instagram.com/anu_efx_offical?igshid=OGQ5ZDc2ODk2ZA==>ℓιηк</a></b>"""
     
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
